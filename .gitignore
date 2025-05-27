@@ -1,0 +1,11 @@
+# Key files
+*.key
+*.pem
+
+# Bytecode files
+__pycache__/
+*.pyc
+
+# Output and temp
+output/
+*.bin
