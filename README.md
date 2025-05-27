@@ -50,7 +50,13 @@ This project strengthened my understanding of core cryptographic principles and 
 
 ## 📸 Screenshot
 
-_Add a screenshot of your GUI here_
+### AES Encryption  
+![AES Encrypt](./Screenshots/aes_encrypt.png)
+![AES Decrypt](./Screenshots/aes_decrypt.png)
+
+### RSA Encryption  
+![RSA Encrypt](./Screenshots/rsa_encrypt.png)
+![RSA Decrypt](./Screenshots/rsa_decrypt.png)
 
 ---
 
