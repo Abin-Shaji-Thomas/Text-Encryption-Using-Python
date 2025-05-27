@@ -50,13 +50,18 @@ This project strengthened my understanding of core cryptographic principles and 
 
 ## 📸 Screenshot
 
-### AES Encryption  
-![AES Encrypt](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/aes_encrypt.png)
-![AES Decrypt](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/aes_decrypt.png)
+### AES Encryption and Decryption
+<p align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/aes_encrypt.png" width="45%" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/aes_decrypt.png" width="45%" />
+</p>
 
-### RSA Encryption  
-![RSA Encrypt](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/rsa_encrypt.png)
-![RSA Decrypt](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/rsa_decrypt.png)
+
+### RSA Encryption and Decryption
+<p align="center">
+  <img src="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/rsa_encrypt.png" width="45%" />
+  <img src="https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/rsa_decrypt.png" width="45%" />
+</p>
 
 ---
 
