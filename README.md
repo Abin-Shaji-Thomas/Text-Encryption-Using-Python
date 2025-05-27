@@ -78,7 +78,7 @@ A full PDF report has been included that documents the encryption types, usage, 
 **Abin Shaji Thomas**  
 Cybersecurity Intern – May 2025  
 Karunya Institute of Technology and Sciences  
-[LinkedIn](https://www.linkedin.com/in/abin-shaji-thomas) *(Add after uploading your video post)*
+[LinkedIn](https://www.linkedin.com/posts/abin-shaji-thomas_cybersecurity-python-internship-activity-7333159460904816641-TeZa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFElLGwBJkG1pcIp0cEol0St3SCjiFhf1xg)
 
 ---
 
