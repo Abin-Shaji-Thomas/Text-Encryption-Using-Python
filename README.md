@@ -81,6 +81,9 @@ Karunya Institute of Technology and Sciences
 
 ---
 
+> Note: All key files (`.key`, `.pem`) are auto-generated during runtime and are excluded from version control for security reasons.
+
 ## ⚠️ Disclaimer
 
 This project is created strictly for **educational purposes** as part of the Pinnacle Labs internship. Encryption must always be used ethically and within legal boundaries.
+
