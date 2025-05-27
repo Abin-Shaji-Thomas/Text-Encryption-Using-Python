@@ -82,6 +82,7 @@ Karunya Institute of Technology and Sciences
 
 ---
 
+⚠️ Important: This code is protected by copyright and cannot be used or copied without permission.
 > Note: All key files (`.key`, `.pem`) are auto-generated during runtime and are excluded from version control for security reasons.
 
 ## ⚠️ Disclaimer
