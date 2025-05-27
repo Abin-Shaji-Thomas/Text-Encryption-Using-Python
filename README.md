@@ -33,16 +33,6 @@ This project fulfills that requirement by implementing all three algorithms in a
 
 ---
 
-## 📂 Files in This Project
-
-text_encryption.py # Main Python GUI app
-aes_key.key # Auto-generated AES key
-rsa_private.pem # RSA private key (auto-generated)
-rsa_public.pem # RSA public key (auto-generated)
-
-
----
-
 ## 🧠 What I Learned
 
 Through this task, I gained strong practical knowledge in:
