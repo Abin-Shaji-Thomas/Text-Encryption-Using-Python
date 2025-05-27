@@ -51,12 +51,12 @@ This project strengthened my understanding of core cryptographic principles and 
 ## 📸 Screenshot
 
 ### AES Encryption  
-![AES Encrypt](./Screenshots/aes_encrypt.png)
-![AES Decrypt](./Screenshots/aes_decrypt.png)
+![AES Encrypt](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/aes_encrypt.png)
+![AES Decrypt](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/aes_decrypt.png)
 
 ### RSA Encryption  
-![RSA Encrypt](./Screenshots/rsa_encrypt.png)
-![RSA Decrypt](./Screenshots/rsa_decrypt.png)
+![RSA Encrypt](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/rsa_encrypt.png)
+![RSA Decrypt](https://github.com/Abin-Shaji-Thomas/Text-Encryption-Using-Python/blob/main/Scrennshots/rsa_decrypt.png)
 
 ---
 
