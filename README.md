@@ -88,4 +88,3 @@ Karunya Institute of Technology and Sciences
 ## ⚠️ Disclaimer
 
 This project is created strictly for **educational purposes** as part of the Pinnacle Labs internship. Encryption must always be used ethically and within legal boundaries.
-
