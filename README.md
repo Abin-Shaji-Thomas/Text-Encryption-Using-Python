@@ -22,7 +22,7 @@ This project fulfills that requirement by implementing all three algorithms in a
 
 - Full **Tkinter GUI**
 - Encryption & decryption using:
-  - 🔐 AES (symmetric, 128-bit)
+  - 🔐 AES (symmetric, 128-bit) 
   - 🔐 DES (symmetric, 56-bit legacy)
   - 🔐 RSA (asymmetric, 2048-bit)
 - Key generation and management
